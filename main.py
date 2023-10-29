@@ -7,3 +7,4 @@ if __name__ == '__main__':
         raise(ImportError('Could not import Numpy.'))
     else:
         print('Numpy successfully imported.')
+    print('A new line.')
